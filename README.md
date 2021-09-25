@@ -19,14 +19,14 @@ That’s when I present the Rieffel method, a cutting-edge technology algorithm 
 2. Open a terminal window and follow:
 
 ##### GNU/Linux o macOS
-    git clone https://github.com/salcc/rieffel_method.git
+    git clone https://github.com/marcvergees/rieffel_method.git
     cd rieffel_method
     python3 -m venv venv
     . venv/bin/activate
     python main.py
     
 ##### Windows
-    git clone https://github.com/salcc/rieffel_method.git
+    git clone https://github.com/marcvergees/rieffel_method.git
     cd rieffel_method
     py -3 -m venv venv
     venv\Scripts\activate
