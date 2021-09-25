@@ -1,0 +1,2 @@
+# rieffel_method
+I present the Rieffel method, a cutting-edge technology algorithm based on data mining, graph theory, variable analysis, statistical models, object-oriented programming, digital marketing, decision trees and neural networks. Finally, and to put an end to the abstract, the most curious will still wonder where the word "Rieffel" comes from: R from Friedrich Riemann, I from Isaac Newton, E from Leonhard Euler, F from Richard Feynmann, F from Jean-Baptiste-Joseph Fourier and L from Wilhelm Leibniz.
