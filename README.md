@@ -33,7 +33,7 @@ That’s when I present the Rieffel method, a cutting-edge technology algorithm 
     python main.py
 
 # Privacy
-Copyright © 2019 Marc Vergés
-This project contains all files (including presentation, legal docs, software, ...) about Marc Vergés i Santiago 2020-2021 Research Project. This repository may be only browsed by his unique owner - Marc Vergés. Any other viewer will be reported.
+Copyright © 2021 Marc Vergés
+This project contains all files (including presentation, legal docs, software, ...) about Marc Vergés i Santiago 2021-2022 Research Project. This repository may be only browsed by his unique owner - Marc Vergés. Any other viewer will be reported.
 # Contact
 Contact me: marcverges9@gmail.com
