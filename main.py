@@ -44,6 +44,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from data_analytics import matriu_adj, matriu_inc, graf, update_values, in_common, data_representation, like_searcher, profile_preferences_finder
 from neural_network import neural_network, profile_preferences_to_NN
+from data_visualization import visualize_data
 from random import randint
 import csv
 
@@ -447,6 +448,7 @@ if __name__ == '__main__':
     print("||     5. Proves graf                                ||")
     print("||     6. Xarxa Neuronal Artificial                  ||")
     print("||     7. Preferències de seguidor                   ||")
+    print("||     8. Visualització del dataset                  ||")
     print("||                                                   ||")
     print("||     Introdueix número:")
     num = int(input())
@@ -503,13 +505,8 @@ if __name__ == '__main__':
 
     if num == 7:
         profile_preferences_finder()
+    
+    if num == 8:
+        visualize_data()
 
     print("--- %s seconds ---" % (time.time() - start_time))
-
-# IDEES
-# ----------------------------------------------------------------------------------------------------------
-# barrejar el data mining amb instascrape i les bases de dades relacionals de json
-# utilitzar matplotlib (entorn gràfic numèric) per representar les dades gràficament
-# https://www.instagram.com/account_name/?__a=1  on account_name és el nom d'usuari
-# implementar el codi de tal manera que esperi a que els elements estiguin llestos i no pas a un clock time
-# fer un browser.quit() al final de tot
