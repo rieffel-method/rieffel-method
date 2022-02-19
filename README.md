@@ -19,21 +19,15 @@ That’s when I present the Rieffel method, a cutting-edge technology algorithm 
 2. Open a terminal window and follow:
 
 ##### GNU/Linux o macOS
-    git clone https://github.com/marcvergees/rieffel_method.git
+    git clone https://github.com/rieffel-method/rieffel_method.git
     cd rieffel_method
     python3 -m venv venv
     . venv/bin/activate
     python main.py
     
 ##### Windows
-    git clone https://github.com/marcvergees/rieffel_method.git
+    git clone https://github.com/rieffel-method/rieffel_method.git
     cd rieffel_method
     py -3 -m venv venv
     venv\Scripts\activate
     python main.py
-
-# Privacy
-Copyright © 2021 Marc Vergés
-This project contains all files (including presentation, legal docs, software, ...) about Marc Vergés i Santiago 2021-2022 Research Project. This repository may be only browsed by his unique owner - Marc Vergés. Any other viewer will be reported.
-# Contact
-Contact me: marcverges9@gmail.com
